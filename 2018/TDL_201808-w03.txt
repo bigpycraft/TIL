@@ -1,0 +1,7 @@
+
+3th week
+what must i do?
+
+- [ ] write ppt for hfds
+- [ ] check python code
+
