@@ -1,4 +1,4 @@
-# Today I Lecture
+# Checking What I Lecture Today 
 
 ## HanaFin : 2018.09.03~2018.09.17
 
